@@ -92,6 +92,7 @@ sneezy sleepy happy grumpy dopey doc bashful
 ## Section 5 others
 * How to validate email in regular expression ?
 * How to use git command to initialize a git repository.
+* What is git branch's purpose in team collaborating .
 * what programming language can be used to develop iOS app.
 * What is ETL system.
 * Explain seven-layer OSI model of computer networking
